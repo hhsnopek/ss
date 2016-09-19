@@ -3,7 +3,7 @@
 
 ## Usage
 ```
-❯ ss --help
+$ ss --help
 
 ❯ Minimal directory hosting
 
