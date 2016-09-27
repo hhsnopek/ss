@@ -1,8 +1,8 @@
 package main
 
 import (
-	"flag"
 	"fmt"
+	flag "github.com/ogier/pflag"
 	"log"
 	"net/http"
 	"os"

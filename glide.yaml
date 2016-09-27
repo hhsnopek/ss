@@ -1,0 +1,4 @@
+package: github.com/hhsnopek/ss
+import:
+- package: github.com/ogier/pflag
+  version: ~0.0.1

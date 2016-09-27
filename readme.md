@@ -13,5 +13,9 @@ flags:
   --path     url path      (default: /)
 ```
 
+## Development
+### Dependencies
+- [Glide](https://github.com/Masterminds/glide)
+
 ## License
 MIT © [Henry Snopek](https://hhsnopek.com)
